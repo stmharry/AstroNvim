@@ -1,0 +1,1 @@
+au BufRead,BufNewFile *.clib,*.clsp setfiletype clojure
