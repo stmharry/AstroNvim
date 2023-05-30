@@ -34,6 +34,7 @@ return {
       },
     },
     filetypes = {
+      clojure = true,
       yaml = true,
       markdown = true,
       help = false,
